@@ -43,27 +43,27 @@ I believe in *learning by building*, and I constantly work on real-world project
 
 # 🚀 Highlighted Projects
 
-### **TreatHouse – Restaurant Website**  
+### 🔹**TreatHouse – Restaurant Website**  
 Responsive restaurant website using **HTML, CSS, Bootstrap**.  
 📌 GitHub: https://github.com/prajktanandurkar09/TreatHouse  
 
 ---
 
-### **Calculator with Voice Recognition**  
+###🔹**Calculator with Voice Recognition**  
 Modern calculator with speech support.  
 📌 GitHub:  
 https://github.com/prajktanandurkar09/Calculater-with-voice-recognization  
 
 ---
 
-### **TIC-TAC-TOE Game**  
+### 🔹**TIC-TAC-TOE Game**  
 Simple web-based game using HTML, CSS & JavaScript.  
 📌 GitHub:  
 https://github.com/prajktanandurkar09/TIC-TAC-TOE  
 
 ---
 
-### **Data Visualization Dashboards (Power BI & Tableau)**  
+###🔹**Data Visualization Dashboards (Power BI & Tableau)**  
 📌 GitHub:  
 https://github.com/prajktanandurkar09/DVSTL-Dashboards  
 
@@ -127,6 +127,11 @@ https://github.com/prajktanandurkar09/DVSTL-Dashboards
 
 ---
 
-# ✨ Motto
-> **“Code. Learn. Build. Repeat.”**
+# ✨ **Fun Motto**  
+> **“Code. Learn. Build. Repeat.”**  
+> Improving every day ✨🔥  
+
+---
+
+### ⭐ *If you like my work, consider giving a ⭐ to my repositories!*
 
